@@ -1,0 +1,8 @@
+{
+  "name": "gractor_eco",
+  "app_id": "3f096541",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
